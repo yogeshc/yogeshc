@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogeshc
-- 👀 I’m interested in all things python, Data engineering, IoT and Test framework development specifically for end to end test automation
-- 🌱 I’m currently learning Azure and web development
-- 💞️ I’m looking to collaborate on DE pipelines particulalry Azure based.
+- 👀 I’m interested in all things Python, Data engineering, Data Architecture, Solutions Architecture specifically for end to end test migration and automation
+- 🌱 I’m veteran Azure data engineer and AWS Solutions architect and comfortable with architecture and migration projects.
+- 💞️ I’m looking to collaborate on Solutions architecture and Data Engineering projects.
 - 📫 How to reach me ef9tyr04i@mozmail.com
 
 <!---
